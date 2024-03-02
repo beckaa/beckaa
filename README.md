@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![White and Grey Modern Photo Collage](https://github.com/beckaa/beckaa/assets/44342265/ba03e031-bc39-4057-8da2-a56f6e2db3d8)
+![White and Grey Modern Photo Collage (1)](https://github.com/beckaa/beckaa/assets/44342265/3ea74016-3cd0-495b-aff6-f659c3a1a064)
+
