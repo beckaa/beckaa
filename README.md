@@ -1,7 +1,10 @@
 ### Hi there 👋
+> To be successful, you only need one chance. - Jesse Owens
+
 My name is Anja. I am studying media computer science at the University of Stuttgart.
-- 🌱 My interests are: Game Development, Web development
-- 🔭 In my free time I am working on a game called Animal Street Crossing🐺 with [@Stephi-x3](https://github.com/Stephi-x3) - Made with Unity 3D
+- 🌱 My interests are: __Game Development__, __Web Development__, __Software Development__
+- 🔭 In my free time I am working on a games and webpages.
+- For more information, take a look at my [portfolio](https://beckaa.github.io/portfolio/)
 
 <!--
 **beckaa/beckaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![White and Grey Modern Photo Collage](https://github.com/beckaa/beckaa/assets/44342265/ba03e031-bc39-4057-8da2-a56f6e2db3d8)
