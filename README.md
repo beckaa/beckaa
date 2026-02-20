@@ -4,7 +4,6 @@
 My name is Anja. I studied media computer science at the University of Stuttgart.
 - 🌱 My interests are: __Game Development__, __Web Development__, __Software Development__
 - 🔭 In my free time I am working on a games and webpages.
-- For more information, take a look at my [portfolio](https://beckaa.github.io/portfolio/)
 
 <!--
 **beckaa/beckaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
